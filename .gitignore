@@ -144,6 +144,8 @@ static
 
 # put you virtual env names here
 env36/
+data/plot/
+plot/
 
 # dataflows checkpoints
 .checkpoints/
